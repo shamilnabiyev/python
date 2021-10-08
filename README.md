@@ -1,2 +1,5 @@
-# python
-Cheat sheet for python, pandas, numpy etc.
+### pandas
+
+```python
+df1.merge(df2, how='left', on='column_name')
+```
